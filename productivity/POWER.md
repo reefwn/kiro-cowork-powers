@@ -3,6 +3,7 @@ name: "productivity"
 displayName: "Productivity"
 description: "Manage tasks, plan your day, and build up memory of important context about your work. Syncs with your calendar, email, and chat to keep everything organized and on track."
 keywords: ["tasks", "todo", "standup", "daily", "sync", "memory", "remember", "action items", "meeting notes", "triage", "organize", "what's on my plate", "remind me", "done with", "waiting on"]
+author: "reefwn"
 ---
 
 # Onboarding
@@ -122,3 +123,7 @@ This power uses tool categories as placeholders. Any MCP server in that category
 - Remembering people, terms, projects, or decoding shorthand → `memory-management.md`
 - Running `/start` to initialize the system → `start-workflow.md`
 - Running `/update` to sync and triage → `update-workflow.md`
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

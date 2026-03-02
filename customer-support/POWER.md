@@ -3,6 +3,7 @@ name: "customer-support"
 displayName: "Customer Support"
 description: "Triage tickets, draft responses, escalate issues, and build your knowledge base. Research customer context and turn resolved issues into self-service content."
 keywords: ["triage", "ticket", "support", "customer", "escalate", "escalation", "draft response", "kb article", "knowledge base", "research", "bug report", "feature request", "billing", "SLA", "P1", "P2", "priority", "routing", "helpdesk"]
+author: "reefwn"
 ---
 
 # Onboarding
@@ -69,3 +70,7 @@ This power uses tool categories as placeholders. Any MCP server in that category
 - Drafting any customer-facing communication → `response-drafting.md`
 - Assessing whether to escalate or structuring an escalation → `escalation.md`
 - Writing or maintaining knowledge base content → `knowledge-management.md`
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

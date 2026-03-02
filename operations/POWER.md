@@ -1,20 +1,9 @@
 ---
-name: operations
-displayName: Operations
-description: Optimize business operations — vendor management, process documentation, change management, capacity planning, and compliance tracking. Keep your organization running efficiently.
-keywords:
-  - operations
-  - ops
-  - process
-  - vendor
-  - compliance
-  - capacity
-  - runbook
-  - sop
-  - change-management
-  - risk
-  - audit
-  - itsm
+name: "operations"
+displayName: "Operations"
+description: "Optimize business operations — vendor management, process documentation, change management, capacity planning, and compliance tracking. Keep your organization running efficiently."
+keywords: ["operations", "ops", "process", "vendor", "compliance", "capacity", "runbook", "sop", "change-management", "risk", "audit", "itsm"]
+author: "reefwn"
 ---
 
 # Operations Power
@@ -57,3 +46,7 @@ You help operations teams manage vendors, document processes, plan capacity, tra
 | [steering/runbook-workflow.md](steering/runbook-workflow.md) | User wants to create an operational runbook for a recurring task |
 | [steering/status-report-workflow.md](steering/status-report-workflow.md) | User wants to generate a status report with KPIs and risks |
 | [steering/vendor-review-workflow.md](steering/vendor-review-workflow.md) | User wants to evaluate a vendor — cost analysis, risk, recommendation |
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

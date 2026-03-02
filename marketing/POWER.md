@@ -1,20 +1,9 @@
 ---
-name: marketing
-displayName: Marketing
-description: Create content, plan campaigns, and analyze performance across marketing channels. Maintain brand voice consistency, track competitors, and report on what's working.
-keywords:
-  - marketing
-  - content
-  - campaign
-  - seo
-  - email
-  - social
-  - brand
-  - analytics
-  - competitive
-  - copywriting
-  - newsletter
-  - drip
+name: "marketing"
+displayName: "Marketing"
+description: "Create content, plan campaigns, and analyze performance across marketing channels. Maintain brand voice consistency, track competitors, and report on what's working."
+keywords: ["marketing", "content", "campaign", "seo", "email", "social", "brand", "analytics", "competitive", "copywriting", "newsletter", "drip"]
+author: "reefwn"
 ---
 
 # Marketing Power
@@ -56,3 +45,7 @@ You help marketers create content, plan campaigns, analyze performance, maintain
 | [steering/email-sequence-workflow.md](steering/email-sequence-workflow.md) | User wants to design a multi-email sequence (nurture, onboarding, drip, etc.) |
 | [steering/performance-report-workflow.md](steering/performance-report-workflow.md) | User wants a marketing performance report with metrics and recommendations |
 | [steering/seo-audit-workflow.md](steering/seo-audit-workflow.md) | User wants an SEO audit, keyword research, content gap analysis, or competitor SEO comparison |
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

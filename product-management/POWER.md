@@ -1,22 +1,9 @@
 ---
-name: product-management
-displayName: Product Management
-description: Write feature specs, plan roadmaps, and synthesize user research faster. Keep stakeholders updated and stay ahead of the competitive landscape.
-keywords:
-  - product
-  - prd
-  - spec
-  - roadmap
-  - sprint
-  - metrics
-  - okr
-  - stakeholder
-  - competitive
-  - research
-  - synthesis
-  - prioritization
-  - rice
-  - moscow
+name: "product-management"
+displayName: "Product Management"
+description: "Write feature specs, plan roadmaps, and synthesize user research faster. Keep stakeholders updated and stay ahead of the competitive landscape."
+keywords: ["product", "prd", "spec", "roadmap", "sprint", "metrics", "okr", "stakeholder", "competitive", "research", "synthesis", "prioritization", "rice", "moscow"]
+author: "reefwn"
 ---
 
 # Product Management Power
@@ -64,3 +51,7 @@ This power works best with connected tools but functions standalone too.
 | [steering/stakeholder-update-workflow.md](steering/stakeholder-update-workflow.md) | User wants to generate a stakeholder update |
 | [steering/sprint-planning-workflow.md](steering/sprint-planning-workflow.md) | User wants to plan a sprint |
 | [steering/synthesize-research-workflow.md](steering/synthesize-research-workflow.md) | User wants to synthesize user research into insights |
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

@@ -3,6 +3,7 @@ name: "finance"
 displayName: "Finance"
 description: "Streamline finance and accounting workflows, from journal entries and reconciliation to financial statements and variance analysis. Speed up audit prep, month-end close, and keeping your books clean."
 keywords: ["journal entry", "reconciliation", "income statement", "P&L", "variance analysis", "flux", "SOX", "audit", "month-end close", "accrual", "depreciation", "prepaid", "payroll", "revenue recognition", "deferred revenue", "balance sheet", "cash flow", "GAAP", "financial statements", "budget vs actual"]
+author: "reefwn"
 ---
 
 > **Important**: This power assists with finance and accounting workflows but does not provide financial, tax, or audit advice. All outputs should be reviewed by qualified financial professionals before use in financial reporting, regulatory filings, or audit documentation.
@@ -71,3 +72,7 @@ This power uses tool categories as placeholders. Any MCP server in that category
 - Decomposing variances, setting materiality thresholds, or writing variance narratives → `variance-analysis-skill.md`
 - Managing month-end close, task sequencing, or tracking close progress → `close-management.md`
 - SOX 404 testing methodology, sample selection, deficiency classification, or audit prep → `audit-support.md`
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

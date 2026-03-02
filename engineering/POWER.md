@@ -3,6 +3,7 @@ name: "engineering"
 displayName: "Engineering"
 description: "Streamline engineering workflows — standups, code review, architecture decisions, incident response, and technical documentation. Works with your existing tools or standalone."
 keywords: ["standup", "code review", "review", "debug", "architecture", "incident", "deploy", "deploy checklist", "ADR", "postmortem", "tech debt", "testing strategy", "system design", "documentation", "runbook", "code quality", "refactor", "production down", "outage", "SEV1"]
+author: "reefwn"
 ---
 
 # Onboarding
@@ -72,3 +73,7 @@ This power uses tool categories as placeholders. Any MCP server in that category
 - Discussing technical debt, refactoring, or code health → `tech-debt.md`
 - Discussing test strategy, coverage, or test plans → `testing-strategy.md`
 - Writing or maintaining technical documentation → `documentation.md`
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).

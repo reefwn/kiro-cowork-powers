@@ -1,20 +1,9 @@
 ---
-name: sales
-displayName: Sales
-description: Prospect, craft outreach, and build deal strategy faster. Prep for calls, manage your pipeline, and write personalized messaging that moves deals forward.
-keywords:
-  - sales
-  - pipeline
-  - forecast
-  - outreach
-  - prospecting
-  - crm
-  - deals
-  - battlecard
-  - competitive
-  - call-prep
-  - account-research
-  - cold-email
+name: "sales"
+displayName: "Sales"
+description: "Prospect, craft outreach, and build deal strategy faster. Prep for calls, manage your pipeline, and write personalized messaging that moves deals forward."
+keywords: ["sales", "pipeline", "forecast", "outreach", "prospecting", "crm", "deals", "battlecard", "competitive", "call-prep", "account-research", "cold-email"]
+author: "reefwn"
 ---
 
 # Sales Power
@@ -56,3 +45,7 @@ You help sales professionals prospect, craft personalized outreach, prep for cal
 | [steering/call-summary-workflow.md](steering/call-summary-workflow.md) | User has call notes or transcript to process into summary, action items, and follow-up email |
 | [steering/forecast-workflow.md](steering/forecast-workflow.md) | User wants a weighted sales forecast with scenarios and gap analysis |
 | [steering/pipeline-review-workflow.md](steering/pipeline-review-workflow.md) | User wants to review pipeline health, prioritize deals, and flag risks |
+
+# Credits
+
+Ported from [Anthropic's Claude Cowork plugins](https://github.com/anthropics/knowledge-work-plugins) by [@reefwn](https://github.com/reefwn).
