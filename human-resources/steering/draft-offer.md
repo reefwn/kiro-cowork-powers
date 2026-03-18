@@ -1,0 +1,91 @@
+# /draft-offer
+
+Draft a complete offer letter for a new hire.
+
+## Usage
+
+```
+/draft-offer
+```
+
+## How It Works
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ DRAFT OFFER                                                     │
+├─────────────────────────────────────────────────────────────────┤
+│ STANDALONE (always works)                                       │
+│ ✓ Provide role, level, location, and comp details               │
+│ ✓ Get a complete offer letter with terms and benefits            │
+│ ✓ Includes negotiation guidance for hiring managers              │
+├─────────────────────────────────────────────────────────────────┤
+│ SUPERCHARGED (when you connect your tools)                      │
+│ + HRIS: Pull comp band data and benefits details                │
+│ + ATS: Pull candidate details from the application              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## What I Need From You
+
+- **Role and title**: What position?
+- **Level**: Junior, Mid, Senior, Staff, etc.
+- **Location**: Where will they be based? (affects comp and benefits)
+- **Compensation**: Base salary, equity, signing bonus (if applicable)
+- **Start date**: When should they start?
+- **Hiring manager**: Who will they report to?
+
+If you don't have all details, I'll help you think through them.
+
+## Output
+
+```markdown
+## Offer Letter Draft: [Role] — [Level]
+
+### Compensation Package
+
+| Component | Details |
+|-----------|---------|
+| **Base Salary** | $[X]/year |
+| **Equity** | [X shares/units], [vesting schedule] |
+| **Signing Bonus** | $[X] (if applicable) |
+| **Target Bonus** | [X]% of base (if applicable) |
+| **Total First-Year Comp** | $[X] |
+
+### Terms
+- **Start Date**: [Date]
+- **Reports To**: [Manager]
+- **Location**: [Office / Remote / Hybrid]
+- **Employment Type**: [Full-time, Exempt]
+
+### Benefits Summary
+[Key benefits highlights relevant to the candidate]
+
+### Offer Letter Text
+Dear [Candidate Name],
+
+We are pleased to offer you the position of [Title] at [Company]...
+
+[Complete offer letter text]
+
+### Notes for Hiring Manager
+- [Negotiation guidance if needed]
+- [Comp band context]
+- [Any flags or considerations]
+```
+
+## If Connectors Available
+
+If **~~HRIS** is connected:
+- Pull comp band data for the level/role
+- Verify headcount approval
+- Auto-populate benefits details
+
+If **~~ATS** is connected:
+- Pull candidate details from the application
+- Update offer status in the pipeline
+
+## Tips
+
+1. **Include total comp** — Candidates compare total compensation, not just base.
+2. **Be specific about equity** — Share count, current valuation method, vesting schedule.
+3. **Personalize** — Reference something from the interview process to make it warm.
