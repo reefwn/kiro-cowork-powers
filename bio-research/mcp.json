@@ -1,0 +1,49 @@
+{
+  "mcpServers": {
+    "pubmed": {
+      "type": "http",
+      "url": "https://pubmed.mcp.claude.com/mcp",
+      "disabled": true
+    },
+    "biorender": {
+      "type": "http",
+      "url": "https://mcp.services.biorender.com/mcp",
+      "disabled": true
+    },
+    "biorxiv": {
+      "type": "http",
+      "url": "https://mcp.deepsense.ai/biorxiv/mcp",
+      "disabled": true
+    },
+    "clinical-trials": {
+      "type": "http",
+      "url": "https://mcp.deepsense.ai/clinical_trials/mcp",
+      "disabled": true
+    },
+    "chembl": {
+      "type": "http",
+      "url": "https://mcp.deepsense.ai/chembl/mcp",
+      "disabled": true
+    },
+    "synapse": {
+      "type": "http",
+      "url": "https://mcp.synapse.org/mcp",
+      "disabled": true
+    },
+    "wiley": {
+      "type": "http",
+      "url": "https://connector.scholargateway.ai/mcp",
+      "disabled": true
+    },
+    "owkin": {
+      "type": "http",
+      "url": "https://mcp.k.owkin.com/mcp",
+      "disabled": true
+    },
+    "open-targets": {
+      "type": "http",
+      "url": "https://mcp.platform.opentargets.org/mcp",
+      "disabled": true
+    }
+  }
+}
