@@ -6,22 +6,20 @@ Kiro Powers translated from [Claude Cowork plugins](https://github.com/anthropic
 
 | Power | Description | Status | Source |
 |-------|-------------|--------|--------|
-| [bio-research](./bio-research) | Preclinical research tools and databases for life sciences R&D | 🔲 | [Original](https://claude.com/plugins/bio-research) |
+| [bio-research](./bio-research) | Preclinical research tools and databases for life sciences R&D | ✅ | [Original](https://claude.com/plugins/bio-research) |
 | [customer-support](./customer-support) | Ticket triage, response drafting, and knowledge base | ✅ | [Original](https://claude.com/plugins/customer-support) |
-| [data](./data) | SQL, dataset exploration, visualizations, and dashboards | 🔲 | [Original](https://claude.com/plugins/data) |
-| [design](./design) | Design critique, UX writing, accessibility audits, and dev handoff | 🔲 | [Original](https://claude.com/plugins/design) |
+| [data](./data) | SQL, dataset exploration, visualizations, and dashboards | ✅ | [Original](https://claude.com/plugins/data) |
+| [design](./design) | Design critique, UX writing, accessibility audits, and dev handoff | ✅ | [Original](https://claude.com/plugins/design) |
 | [engineering](./engineering) | Standups, code review, architecture decisions, and incident response | ✅ | [Original](https://claude.com/plugins/engineering) |
-| [enterprise-search](./enterprise-search) | Search across company tools — email, chat, documents, wikis | 🔲 | [Original](https://claude.com/plugins/enterprise-search) |
+| [enterprise-search](./enterprise-search) | Search across company tools — email, chat, documents, wikis | ✅ | [Original](https://claude.com/plugins/enterprise-search) |
 | [finance](./finance) | Journal entries, reconciliation, and financial statements | ✅ | [Original](https://claude.com/plugins/finance) |
-| [human-resources](./human-resources) | Recruiting, onboarding, performance reviews, and policy guidance | 🔲 | [Original](https://claude.com/plugins/human-resources) |
-| [legal](./legal) | Contract review, NDA triage, and compliance workflows | 🔲 | [Original](https://claude.com/plugins/legal) |
+| [human-resources](./human-resources) | Recruiting, onboarding, performance reviews, and policy guidance | ✅ | [Original](https://claude.com/plugins/human-resources) |
+| [legal](./legal) | Contract review, NDA triage, and compliance workflows | ✅ | [Original](https://claude.com/plugins/legal) |
 | [marketing](./marketing) | Content creation, campaign planning, and performance analysis | ✅ | [Original](https://claude.com/plugins/marketing) |
 | [operations](./operations) | Vendor management, process docs, change management, and compliance | ✅ | [Original](https://claude.com/plugins/operations) |
 | [product-management](./product-management) | Feature specs, roadmaps, and user research synthesis | ✅ | [Original](https://claude.com/plugins/product-management) |
 | [productivity](./productivity) | Task management, workplace memory, and daily sync | ✅ | [Original](https://claude.com/plugins/productivity) |
 | [sales](./sales) | Prospect, craft outreach, and build deal strategy | ✅ | [Original](https://claude.com/plugins/sales) |
-
-✅ = Supported &nbsp; 🔲 = Not yet supported
 
 ## Installation
 
